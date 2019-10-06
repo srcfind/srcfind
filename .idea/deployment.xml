@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="192.168.20.4">
+    <serverData>
+      <paths name="192.168.20.4">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/software/srcfind" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Default (08c9a3ee-ed6f-47c4-9ad2-bf16cd31d807)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.UvRrBNC9hK" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

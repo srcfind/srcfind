@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="srcfind"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.UvRrBNC9hK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.UvRrBNC9hK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.UvRrBNC9hK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="srcfind">
+				<Option output="/tmp/tmp.UvRrBNC9hK/cmake-build-debug/srcfind" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.UvRrBNC9hK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.UvRrBNC9hK/."/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/R/library/Rcpp/include"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/R/include"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/R/library/RInside/include"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.4.0/include"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.4.0/include-fixed"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/gcc/../../gcc/include/c++"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/gcc/../../gcc/include/c++/x86_64-unknown-linux-gnu"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/gcc/../../gcc/include/c++/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/gcc/../../gcc/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 srcfind"/>
+					<CompileFile command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="srcfind/fast">
+				<Option output="/tmp/tmp.UvRrBNC9hK/cmake-build-debug/srcfind" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.UvRrBNC9hK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.UvRrBNC9hK/."/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/R/library/Rcpp/include"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/R/include"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/R/library/RInside/include"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.4.0/include"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.4.0/include-fixed"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/gcc/../../gcc/include/c++"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/gcc/../../gcc/include/c++/x86_64-unknown-linux-gnu"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/gcc/../../gcc/include/c++/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/xutun/miniconda3/envs/cppEnv/lib/gcc/../../gcc/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 srcfind/fast"/>
+					<CompileFile command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/home/xutun/miniconda3/envs/cppEnv/bin/make -j16 -f &quot;/tmp/tmp.UvRrBNC9hK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/agctNode.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/agctNode.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/agctTree.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/agctTree.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/alignInfo.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/alignInfo.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/alignManager.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/alignManager.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/backgroundGenerator.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/backgroundGenerator.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bamFile.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bamFile.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/basicInfo.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/basicInfo.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bedFile.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bedFile.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bpDecReg.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bpDecReg.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bpSideSolRel.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bpSideSolRel.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bpSolRel.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bpSolRel.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bpSolRelSet.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/bpSolRelSet.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/comRel.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/comRel.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/contig.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/detectRegion.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/detectRegion.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/faFile.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/faFile.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/fastqFile.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/fastqFile.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/fastqReads.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/fastqReads.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/gcSta.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/gcSta.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/geneRegion.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/geneRegion.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/geneRegionFile.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/geneRegionFile.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/nanoSpeed.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/nanoSpeedBF.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/nanoSpeedBF.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/nanoSpeedFile.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/nanoSpeedFile.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/nonB.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/nonB.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/nonbPotDetector.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/nonbPotDetector.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/oneFastq.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/oneFastq.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/oneVCF.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/oneVCF.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/relSet.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/relSet.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/solRel.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/solRel.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/srcfind.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/ttbond_fa.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/ttbond_fa.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/ttbond_math.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/ttbond_math.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/vcfFile.cpp">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/vcfFile.h">
+			<Option target="srcfind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.UvRrBNC9hK/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

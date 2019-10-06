@@ -1,0 +1,4 @@
+/home/xutun/miniconda3/envs/cppEnv/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/xutun/miniconda3/envs/cppEnv/bin/make -DCMAKE_C_COMPILER=/home/xutun//miniconda3/envs/cppEnv/bin/gcc -DCMAKE_CXX_COMPILER=/home/xutun/miniconda3/envs/cppEnv/bin/g++ -G "CodeBlocks - Unix Makefiles" /tmp/tmp.UvRrBNC9hK
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.UvRrBNC9hK/cmake-build-debug
